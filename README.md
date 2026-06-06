@@ -40,8 +40,8 @@ Performance = ((Goals × 50) + (Assists × 30) + (Passes / 10)) / Matches
 ```
 
 - **Cell Coloring** — Rows/cells are color-coded:
-  - 🔴 Red — Performance < 50
-  - 🟠 Orange — Player age > 41
+  - Red — Performance < 50
+  - Orange — Player age > 41
 
 ---
 

@@ -1,0 +1,7 @@
+MODULE user_command_0100 INPUT.
+CASE sy-ucomm.
+  WHEN '&BACK'.
+LEAVE to SCREEN 0.
+ENDCASE.
+
+ENDMODULE.
